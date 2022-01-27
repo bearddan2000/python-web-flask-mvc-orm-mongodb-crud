@@ -1,0 +1,87 @@
+[
+   {
+      "name":"empty",
+      "description":"",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "health":0,
+         "value":0
+      }
+   },
+   {
+      "name":"hands",
+      "description":"they look quite strong",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "damage":1
+      }
+   },
+   {
+      "name":"shiv",
+      "description":"a small dagger",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "damage":3,
+         "weight":2,
+         "value":30
+      }
+   },
+   {
+      "name":"dagger",
+      "description":"a basic dagger",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "damage":5,
+         "weight":1,
+         "value":50
+      }
+   },
+   {
+      "name":"shortsword",
+      "description":"a basic shortsword",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "damage":7,
+         "weight":5,
+         "value":70
+      }
+   },
+   {
+      "name":"spear",
+      "description":"a basic spear",
+      "position":"rightHand",
+      "level":1,
+      "properties":{
+         "damage":5,
+         "weight":4,
+         "value":50
+      }
+   },
+   {
+      "name":"broadsword",
+      "description":"a two handed broadsword",
+      "position":"bothHands",
+      "level":1,
+      "properties":{
+         "damage":10,
+         "weight":4,
+         "value":50
+      }
+   },
+   {
+      "name":"Katana",
+      "description":"A long sword once used by a legendary Japanese samurai",
+      "position":"rightHand",
+      "level":3,
+      "properties":{
+         "damage":50,
+         "weight":3,
+         "value":0
+      }
+   }
+]
